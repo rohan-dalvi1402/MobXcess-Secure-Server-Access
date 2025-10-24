@@ -15,7 +15,7 @@ This repository presents both the **server-side implementation** and the **clien
 ## 📄 Technical Paper  
 
 **Title:** *MobXcess: Secure Server Access from Mobile Device*  
-**Authors:** Rohan Dalvi  
+**Author:** Rohan Dalvi  
 **Conference:** IC-ICN 2023 – International Conference on Intelligent Computing and Networking (Springer Nature)  
 **Date:** 22<sup>nd</sup> February 2023  
 
