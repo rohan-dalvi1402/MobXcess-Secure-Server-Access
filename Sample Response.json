@@ -1,3 +1,4 @@
+```kusto
 {
   "status": 1,
   "message": "Data Fetched Successfully",
@@ -7,3 +8,4 @@
     }
   ]
 }
+```
