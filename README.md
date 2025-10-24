@@ -6,16 +6,16 @@ Secure REST-based framework for remote server access via mobile devices. Impleme
 ## 🔐 Overview  
 
 **MobXcess** is a secure and efficient protocol designed to enable remote server access from **mobile devices**, serving as an alternative to traditional SSH.  
-It introduces a **REST-based communication model** fortified with **RSA-4096 encryption** and **QR-based key exchange**, ensuring data privacy, integrity, and authentication.  
+It introduces a **REST-based communication model** fortified with **RSA-4096 encryption** and **QR-based key exchange**, ensuring data privacy, integrity and authentication.  
 
-This repository presents both the **server-side implementation** and the **client-side mobile interface** described in our research paper submitted to **IC-ICN 2023 (Springer Nature)**.  
+This repository presents both the **server-side implementation** and the **client-side mobile interface** described in our technical paper submitted to **IC-ICN 2023 (Springer Nature)**.  
 
 ---
 
-## 📄 Research Paper  
+## 📄 Technical Paper  
 
 **Title:** *MobXcess: Secure Server Access from Mobile Device*  
-**Authors:** Rohan Dalvi, Wilfred Almeida, Faraz Ahmed, Lydia Suganya  
+**Authors:** Rohan Dalvi
 **Conference:** IC-ICN 2023 – International Conference on Intelligent Computing and Networking (Springer Nature)  
 **Date:** February 2023  
 
