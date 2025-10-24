@@ -1,0 +1,12 @@
+{
+  "trustedDevices": [
+    {
+      "name": "My Device",
+      "uid": "SMSNG35428J30P"
+    },
+    {
+      "name": "Test Device",
+      "uid": "ABC123XYZ789"
+    }
+  ]
+}
