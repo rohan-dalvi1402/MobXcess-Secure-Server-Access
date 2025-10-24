@@ -1,0 +1,9 @@
+{
+  "status": 1,
+  "message": "Data Fetched Successfully",
+  "payload": [
+    {
+      "result": "hello"
+    }
+  ]
+}
