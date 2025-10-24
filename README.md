@@ -15,9 +15,9 @@ This repository presents both the **server-side implementation** and the **clien
 ## 📄 Technical Paper  
 
 **Title:** *MobXcess: Secure Server Access from Mobile Device*  
-**Authors:** Rohan Dalvi
+**Authors:** Rohan Dalvi  
 **Conference:** IC-ICN 2023 – International Conference on Intelligent Computing and Networking (Springer Nature)  
-**Date:** February 2023  
+**Date:** 22<sup>nd</sup> February 2023  
 
 📘 *The paper is available in the [`docs/`](docs/) folder.*
 
@@ -28,7 +28,7 @@ This repository presents both the **server-side implementation** and the **clien
 - 🔒 **RSA-4096 Encryption** – Ensures end-to-end confidentiality of communications  
 - 📱 **Mobile Integration** – Execute predefined server commands through a secure mobile interface  
 - 🧠 **Command Control** – All executable commands are predefined and managed by the administrator  
-- 🧾 **REST API Endpoints** – `/getCommands`, `/runCommand`, and other secure endpoints  
+- 🧾 **REST API Endpoints** – `/getCommands`, `/runCommand` and other secure endpoints  
 - 🧍 **Trusted Device Verification** – Client authentication via unique device UIDs  
 - 🔑 **QR-Based Key Exchange** – Simplifies secure key transfer between client and server  
 - ⚡ **Auto Reload Configuration** – Updates JSON files without requiring server restarts  
