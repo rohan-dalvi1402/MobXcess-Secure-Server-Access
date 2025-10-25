@@ -64,8 +64,10 @@ This repository presents both the **server-side implementation** and the **clien
 ## ⚙️ Setup Instructions  
 
 ### **Server**
-```bash
+
+```bash 
 cd server
 pip install -r requirements.txt
 python app.py
+```
 
