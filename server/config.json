@@ -1,0 +1,7 @@
+{
+  "port": 8080,
+  "use_ssl": false,
+  "auto_reload": true,
+  "rsa_key_size": 4096,
+  "server_uri": "http://127.0.0.1:8080"
+}
