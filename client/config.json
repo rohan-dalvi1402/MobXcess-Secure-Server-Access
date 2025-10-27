@@ -1,0 +1,5 @@
+{
+  "server_uri": "http://127.0.0.1:8080",
+  "server_public_key_path": "keys/server_public.pem",
+  "client_private_key_path": "keys/client_private.pem"
+}
