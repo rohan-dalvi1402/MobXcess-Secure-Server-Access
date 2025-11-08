@@ -1,0 +1,12 @@
+# Ignore all private keys
+*_private.pem
+
+# Ignore any other sensitive key materials
+*.key
+*.crt
+*.csr
+
+# Allow public keys and placeholder files
+!server_public.pem
+!client_public.pem
+!.gitkeep
